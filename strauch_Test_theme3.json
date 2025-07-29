@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "themeOverrides": {
+    "primaryColor": "strauch",
+    "colors": {
+      "strauch": [
+      "#ebfced",
+      "#daf5dd",
+      "#b3e9ba",
+      "#89dd93",
+      "#66d373",
+      "#50cd5e",
+      "#44ca53",
+      "#35b243",
+      "#289436",
+      "#1b892e"
+      ]
+    },
+    "defaultRadius": "10",
+    "fontFamily": "'Arial', Standart",
+    "headings": {
+      "fontFamily": "'Arial', Standart"
+    },
+    "fontSizes": "16",
+    "white": "#FFFFFF",
+    "black": "#131A2A",
+    "components": {
+      "ViewportBranding": {
+        "defaultProps": {
+          "light": {
+            "logo": "https://assets.shapediver.com/icon/transparent/sd_icon_512x512.webp"
+          },
+          "dark": {
+            "logo": "https://assets.shapediver.com/icon/transparent/sd_icon_512x512.webp"
+          }
+        }
+      }
+    }
+  }
+}

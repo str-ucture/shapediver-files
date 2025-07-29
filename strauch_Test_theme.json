@@ -1,0 +1,39 @@
+{
+  "version": "1.0",
+  "themeOverrides": {
+    "primaryColor": "strauch.7",
+    "colors": {
+      "strauch": [
+      "#ebfced",
+      "#daf5dd",
+      "#b3e9ba",
+      "#89dd93",
+      "#66d373",
+      "#50cd5e",
+      "#44ca53",
+      "#35b243",
+      "#289436",
+      "#1b892e"
+      ]
+    },
+    "defaultRadius": "10",
+    "fontFamily": "'Arial', Standart",
+    "headings": {
+      "fontFamily": "'Arial', Standart"
+    },
+    "fontSizes": "16",
+    "white": "#FFFFFF",
+    "black": "#131A2A",
+   
+      "ViewportBranding": {
+        "defaultProps": {
+          "light": {
+            "logo": "https://www.str-ucture.com/media/pages/projekte/balkon-str-auch/684b5d1c2b-1753774491/str_ucture_logo.png"
+          },
+          "dark": {
+            "logo": "https://www.str-ucture.com/media/pages/projekte/balkon-str-auch/684b5d1c2b-1753774491/str_ucture_logo.png"
+          }
+        }
+      }
+    }
+ }

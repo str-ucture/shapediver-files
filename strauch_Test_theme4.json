@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "themeOverrides": {
+    "primaryColor": "strauch",
+    "colors": {
+      "strauch": [
+         "#eafcf0",
+         "#d9f6e1",
+         "#b1ebc2",
+         "#86e1a0",
+         "#63d783",
+         "#4dd271",
+         "#40cf67",
+         "#31b756",
+         "#28a84d",
+         "#158d3d"
+        ]
+    },
+    "defaultRadius": "xl",
+    "fontFamily": "'Arial', Standart",
+    "headings": {
+      "fontFamily": "'Arial', Standart",
+      "fontWeight": 300,
+      "sizes": {
+			"h1": {"fontSize": "0.875rem"},
+			"h2": {"fontSize": "0.750rem"},
+			"h3": {"fontSize": "0.6rem"}
+		}
+    },
+    "fontSizes": "16",
+    "white": "#F5F5F5",
+    "black": "#131A2A",
+    "components": {
+      "ViewportBranding": {
+        "defaultProps": {
+          "light": {
+            "logo": "https://www.str-ucture.com/media/pages/projekte/balkon-str-auch/684b5d1c2b-1753774491/str_ucture_logo.png"
+          },
+          "dark": {
+            "logo": "https://www.str-ucture.com/media/pages/projekte/balkon-str-auch/684b5d1c2b-1753774491/str_ucture_logo.png"
+          }
+        }
+      },
+      "ViewportIcons": {
+          "defaultProps": {
+            "size": "64",
+            "enableCamerasBtn": false
+        }
+      }
+    }
+  }
+}

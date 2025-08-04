@@ -1,0 +1,138 @@
+{
+  "version": "1.0",
+  "themeOverrides": {
+    "primaryColor": "strauch",
+    "colors": {
+      "strauch":[
+        "#ebfff3",
+        "#d5fee6",
+        "#a5fdca",
+        "#73fdab",
+        "#4ffd92",
+        "#3efd81",
+        "#36fe78",
+        "#2be266",
+        "#1ec95a",
+        "#009640"
+      ]
+    },
+    "defaultRadius": "lg",
+    "fontFamily": "'Arial', Standart",
+    "headings": {
+      "fontFamily": "'Arial', Standart",
+      "fontWeight": "700",
+      "sizes": {
+			"h1": {
+            "fontSize": "1.8rem",
+            "fontWeight": "900"
+            },
+			"h2": {"fontSize": "1.5rem"},
+			"h3": {"fontSize": "1.2rem"},
+      "h4": {"fontSize": "2.5rem"}
+		  }
+    },
+    "fontSizes": "12",
+    "white": "#F7F7F7",
+    "black": "#050505",
+    "other": {
+		"forceColorScheme": "light"
+    },
+    "components": {
+      "Accordion": {
+        "defaultProps": {
+          "styles": {
+            "label": {
+              "fontWeight": "700"
+            }
+          }
+        }
+      },
+      "AppBuilderContainerWrapper":{
+            "defaultProps": {
+				      "containerThemeOverrides": "grid"
+            }
+      },
+      "Slider": {
+            "defaultProps":{
+              "color": "strauch.9"
+              }
+      },
+      "Switch": {
+          "defaultProps":{
+            "color": "strauch.9"
+            }
+      },
+      "Button": {
+        "defaultProps":{
+          "color": "strauch.9"
+        }
+      },
+      "ExportLabelComponent": {
+          "defaultProps": {
+            "fontWeight": "700"
+          }
+      },
+      "ViewportBranding": {
+        "defaultProps": {
+          "light": {
+            "logo": "https://www.str-ucture.com/media/pages/projekte/balkon-str-auch/684b5d1c2b-1753774491/str_ucture_logo.png"
+            },
+          "dark": {
+            "logo": "https://www.str-ucture.com/media/pages/projekte/balkon-str-auch/684b5d1c2b-1753774491/str_ucture_logo.png"
+          }
+        }
+      },
+      "ViewportAcceptRejectButtons": {
+				"defaultProps": {
+					"buttonProps": {
+					  "color": "strauch.9",
+            "opacity": "0.9"
+				  }
+        }
+      },
+     "ParametersAndExportsAccordionComponent": {
+        "defaultProps": {
+		        "avoidSingleComponentGroups": false
+        }
+      },
+     "ParameterLabelComponent":{
+        "defaultProps":{
+				        "fontWeight": "500"
+			  }
+      },
+     "ViewportIcons": {
+          "defaultProps": {
+            "size": "64",
+            "enableCamerasBtn": false
+        }
+      },
+      "AppBuilderGridTemplatePage": {
+        "defaultProps":{
+				"columns": "4",
+				"rows": "5",
+				"leftColumns": "1",
+				"rightColumns": "1",
+				"topRows": "1",
+				"bottomRows": "2",
+				"topFullWidth": false,
+				"bottomFullWidth": true
+			  }
+      },
+      "TooltipWrapper": {
+				"defaultProps":{
+				  "themeOverride": {
+					  "headings": {
+						  "sizes": {
+							  "h1": {
+                  "fontSize": "10",
+                  "fontWeight": "200",
+                  "color": "#050505"
+                }
+              }
+					  }
+          }
+        }
+      }
+    }
+  }
+}

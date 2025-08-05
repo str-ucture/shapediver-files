@@ -49,7 +49,7 @@
                     "color": "iflinger"
                 }
             },
-            "ParameterSelectComponent": {
+            "Select": {
                 "defaultProps": {
                     "componentSettings": {
 						"Geländer": {
@@ -91,6 +91,7 @@
 
 
 }
+
 
 
 

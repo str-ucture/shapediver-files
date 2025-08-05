@@ -49,7 +49,7 @@
                     "color": "iflinger"
                 }
             },
-            "Accordion": {
+            "ParameterSelectComponent": {
                 "defaultProps": {
                     "componentSettings": {
 						"Gelaender": {
@@ -91,5 +91,6 @@
 
 
 }
+
 
 

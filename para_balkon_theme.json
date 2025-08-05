@@ -53,7 +53,7 @@
                 "defaultProps": {
                     "componentSettings": {
 						"Gelaender": {
-                            "type": "imagedropdown",
+                            "type": {"imagedropdown"},
                             "itemData": {
                                 "0": {
                                     "imageUrl": "https://www.str-ucture.com/media/pages/projekte/balkone-iflinger-kopieren/e776f978f2-1754395944/gerade-staebe-verzinkt.png",
@@ -90,3 +90,4 @@
     }
 
 }
+

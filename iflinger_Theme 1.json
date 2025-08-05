@@ -1,0 +1,77 @@
+{
+    "version": "1.0",
+    "themeOverrides": {
+          "primaryColor": "iflinger",
+    "colors": {
+      "iflinger":[
+  "#ffe9e9",
+  "#ffd0d0",
+  "#fd9d9d",
+  "#fc6766",
+  "#fc3b38",
+  "#fc231c",
+  "#fd160e",
+  "#e20a03",
+  "#d10000",
+  "#b00000"
+]
+      },
+    "defaultRadius": "lg",
+    "forceColorScheme": "light",
+    "components": {
+      "Slider": {
+            "defaultProps":{
+              "color": "iflinger"
+              }
+      },
+      "Switch": {
+          "defaultProps":{
+            "color": "iflinger"
+            }
+      },
+      "Button": {
+        "defaultProps":{
+          "color": "iflinger"
+                }
+      },
+            "ParameterSelectComponent": {
+                "defaultProps": {
+                    "componentSettings": {
+                       
+                        },
+						"Geländer": {
+                            "type": "imagedropdown",
+                            "itemData": {
+                                "Gerade Stäbe, verzinkt 397,50€/lfm": {
+                                    "imageUrl": "https://www.str-ucture.com/media/pages/projekte/balkone-iflinger-kopieren/e776f978f2-1754395944/gerade-staebe-verzinkt.png",
+                                    "description": "397,50€/lfm",
+                                    "displayname": "Gerade Stäbe, verzinkt"
+                                },
+                                "Flachstahl, verzinkt  473,75€/lfm ": {
+                                    "imageUrl": "https://www.str-ucture.com/media/pages/projekte/balkone-iflinger-kopieren/29e605a524-1754395957/flachstahl-verzinkt.png",
+                                    "description": "473,75€/lfm",
+									"displayname": "Flachstahl, verzinkt"
+                                },
+                                "Stahl verzinkt, mit Glasfüllung  510,00€/lfm": {
+                                    "imageUrl": "https://www.str-ucture.com/media/pages/projekte/balkone-iflinger-kopieren/0f7b0db242-1754395903/verzinkt-mit-glasfuellung.png",
+                                    "description": "510,00€/lfm",
+									"displayname": "Stahl verzinkt, mit Glasfüllung"
+                                },
+                                "Edelstahl mit Glasfüllung   680,00€/lfm": {
+                                    "imageUrl": "https://www.str-ucture.com/media/pages/projekte/balkone-iflinger-kopieren/5a26f3c399-1754395927/edelstahl-mit-glasfuellung.png",
+                                    "description": "680,00€/lfm",
+									"displayname": "Edelstahl mit Glasfüllung"
+
+                                }
+                            },
+                            "settings": {
+								"imageProps": {
+                                    "w": "10%"
+                                }
+							}
+                        }
+                    }
+                }
+            }
+        }
+    }

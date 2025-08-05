@@ -1,54 +1,7 @@
 {
     "version": "1.0",
     "themeOverrides": {
-        "primaryColor": "iflinger",
-        "colors": {
-        "iflinger":[
-            "#ffe9e9",
-            "#ffd0d0",
-            "#fd9d9d",
-            "#fc6766",
-            "#fc3b38",
-            "#fc231c",
-            "#fd160e",
-            "#e20a03",
-            "#d10000",
-            "#b00000"
-            ]
-        },
-        "defaultRadius": "0",
-        "fontFamily": "'Arial', Standart",
-        "headings": {
-            "fontFamily": "'Arial', Standart",
-            "fontWeight": "700",
-            "sizes": {
-			    "h1": {
-                    "fontSize": "1.8rem",
-                    "fontWeight": "900"
-                },
-			    "h2": {"fontSize": "1.5rem"},
-			    "h3": {"fontSize": "1.2rem"},
-                "h4": {"fontSize": "2.5rem"}
-		    }
-        },
-        "fontSizes": "12",
-        "forceColorScheme": "light",
-        "components": {
-            "Slider": {
-                "defaultProps":{
-                    "color": "iflinger"
-                    }
-            },
-            "Switch": {
-                "defaultProps":{
-                    "color": "iflinger"
-                }
-            },
-            "Button": {
-                "defaultProps":{
-                    "color": "iflinger"
-                }
-            },
+	"components": {
             "Select": {
                 "defaultProps": {
                     "componentSettings": {
@@ -91,6 +44,7 @@
 
 
 }
+
 
 
 

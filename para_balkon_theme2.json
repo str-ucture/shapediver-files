@@ -55,22 +55,22 @@
 						"Gelaender": {
                             "type": "fullwidthcards",
                             "itemData": {
-                                "0": {
+                                "Opt0": {
                                     "imageUrl": "https://www.str-ucture.com/media/pages/projekte/balkone-iflinger-kopieren/e776f978f2-1754395944/gerade-staebe-verzinkt.png",
                                     "description": "397,50€/lfm",
                                     "displayname": "Gerade Stäbe, verzinkt"
                                 },
-                                "1": {
+                                "Opt1": {
                                     "imageUrl": "https://www.str-ucture.com/media/pages/projekte/balkone-iflinger-kopieren/29e605a524-1754395957/flachstahl-verzinkt.png",
                                     "description": "473,75€/lfm",
 									"displayname": "Flachstahl, verzinkt"
                                 },
-                                "2": {
+                                "Opt2": {
                                     "imageUrl": "https://www.str-ucture.com/media/pages/projekte/balkone-iflinger-kopieren/0f7b0db242-1754395903/verzinkt-mit-glasfuellung.png",
                                     "description": "510,00€/lfm",
 									"displayname": "Stahl verzinkt, mit Glasfüllung"
                                 },
-                                "3": {
+                                "Opt3": {
                                     "imageUrl": "https://www.str-ucture.com/media/pages/projekte/balkone-iflinger-kopieren/5a26f3c399-1754395927/edelstahl-mit-glasfuellung.png",
                                     "description": "680,00€/lfm",
 									"displayname": "Edelstahl mit Glasfüllung"
@@ -91,4 +91,5 @@
 
 
 }
+
 

@@ -52,7 +52,7 @@
             "ParameterSelectComponent": {
                 "defaultProps": {
                     "componentSettings": {
-						"Gelaender": {
+						"Geländer": {
                             "type": "fullwidthcards",
                             "itemData": {
                                 "Opt0": {
@@ -91,6 +91,7 @@
 
 
 }
+
 
 
 

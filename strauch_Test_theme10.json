@@ -107,7 +107,7 @@
 		    "enableArBtn": true,
 		    "transitionProps": {
 			"transition": "none",
-			"duration": 400
+			"duration": 10000000000
 	  		}
         }
       },

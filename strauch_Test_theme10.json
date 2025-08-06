@@ -104,10 +104,10 @@
           "defaultProps": {
             "size": "64",
             "enableCamerasBtn": false,
-		"enableArBtn": true,
-		   "transitionProps": {
+		    "enableArBtn": true,
+		    "transitionProps": {
 			"transition": "none",
-			"duration": 10000000000000
+			"duration": 400
 	  		}
         }
       },
@@ -142,7 +142,6 @@
   }
 
 }
-
 
 
 

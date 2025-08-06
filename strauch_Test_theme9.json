@@ -104,7 +104,7 @@
           "defaultProps": {
             "size": "64",
             "enableCamerasBtn": false,
-		"enableArBtn": true
+		"enableArBtn": true,
 		   "transitionProps": {
 			"transition": {}
 	  		}
@@ -141,5 +141,6 @@
   }
 
 }
+
 
 

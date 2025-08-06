@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "themeOverrides": {
+          "primaryColor": "iflinger",
+    "colors": {
+      "iflinger":[
+  "#ffe9e9",
+  "#ffd0d0",
+  "#fd9d9d",
+  "#fc6766",
+  "#fc3b38",
+  "#fc231c",
+  "#fd160e",
+  "#e20a03",
+  "#d10000",
+  "#b00000"
+]
+      },
+    "defaultRadius": "lg",
+    "other":{
+    "forceColorScheme": "light"},
+    "components": {
+      "Slider": {
+            "defaultProps":{
+              "color": "iflinger"
+              }
+      },
+      "Switch": {
+          "defaultProps":{
+            "color": "iflinger",
+            "withThumbIndicator": false,
+            "thumbIcon": "->"
+            }
+      },
+      "Switch.extend": {
+          "defaultProps":{
+            "withThumbIndicator": false,
+            "thumbIcon": "<-"
+          }
+
+      },
+      "Button": {
+        "defaultProps":{
+          "color": "iflinger"
+                }
+      },
+      "ViewportIcons": {
+          "defaultProps": {
+            "size": "64",
+            "enableCamerasBtn": false,
+		    "enableArBtn": true,
+		    "transitionProps": {
+			"transition": "none",
+			"duration": 10000000000
+	  		}
+        }
+      }
+            }
+        }
+    }

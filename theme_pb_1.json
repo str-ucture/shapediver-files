@@ -17,7 +17,8 @@
 ]
       },
     "defaultRadius": "lg",
-    "forceColorScheme": "light",
+    "other":{
+    "forceColorScheme": "light"},
     "components": {
       "Slider": {
             "defaultProps":{

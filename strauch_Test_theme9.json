@@ -108,9 +108,9 @@
       },
       "AppBuilderGridTemplatePage": {
         "defaultProps":{
-				"columns": "4",
+				"columns": "6",
 				"rows": "5",
-				"leftColumns": "1",
+				"leftColumns": "2",
 				"rightColumns": "1",
 				"topRows": "1",
 				"bottomRows": "2",
@@ -135,4 +135,5 @@
       }
     }
   }
+
 }

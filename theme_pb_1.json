@@ -27,7 +27,9 @@
       },
       "Switch": {
           "defaultProps":{
-            "color": "iflinger"
+            "color": "iflinger",
+            "withThumbIndicator": false,
+            "thumbIcon": "https://www.str-ucture.com/media/pages/projekte/balkone-iflinger-kopieren/2775c8368c-1754494492/arrow.png"
             }
       },
       "Button": {

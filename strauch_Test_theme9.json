@@ -105,6 +105,9 @@
             "size": "64",
             "enableCamerasBtn": false,
 		"enableArBtn": true
+		   "transitionProps": {
+			"transition": {}
+	  		}
         }
       },
       "AppBuilderGridTemplatePage": {
@@ -138,4 +141,5 @@
   }
 
 }
+
 

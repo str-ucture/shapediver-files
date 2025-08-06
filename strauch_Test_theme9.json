@@ -103,7 +103,8 @@
      "ViewportIcons": {
           "defaultProps": {
             "size": "64",
-            "enableCamerasBtn": false
+            "enableCamerasBtn": false,
+		"enableArBtn": true
         }
       },
       "AppBuilderGridTemplatePage": {
@@ -137,3 +138,4 @@
   }
 
 }
+

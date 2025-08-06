@@ -106,7 +106,7 @@
             "enableCamerasBtn": false,
 		"enableArBtn": true,
 		   "transitionProps": {
-			"transition": "none"
+			"transition": none
 	  		}
         }
       },
@@ -141,6 +141,7 @@
   }
 
 }
+
 
 
 

@@ -15,18 +15,6 @@
   "#d10000",
   "#b00000"
 ]
-	 "iflinger2":[
-  "#e4ffee",
-  "#cdffde",
-  "#9cffbd",
-  "#66ff99",
-  "#3dff7a",
-  "#25ff67",
-  "#15ff5c",
-  "#00e84d",
-  "#00ca41",
-  "#00ae33"
-]
       },
     "defaultRadius": "lg",
     "other":{

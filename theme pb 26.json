@@ -41,12 +41,12 @@
       "Switch": {
           "defaultProps":{
             "color": "iflinger"
-          }
+              }
 	  },
       "Button": {
         "defaultProps":{
           "color": "iflinger2"
-        }
+              }
 		  
       },
       "ColorInput":{

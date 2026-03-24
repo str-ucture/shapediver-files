@@ -30,11 +30,6 @@
             "color": "iflinger"
           }
       },
-      "Button": {
-        "defaultProps":{
-          "color": "iflinger"
-                }
-      },
       "ColorInput":{
         "defaultProps":{
 				    "colorFormat": "rgb",

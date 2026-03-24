@@ -14,7 +14,8 @@
   "#e20a03",
   "#d10000",
   "#b00000"
-]import { Group, Button, MantineProvider, createTheme } from '@mantine/core';
+]
+		import { Group, Button, MantineProvider, createTheme } from '@mantine/core';
 
 const theme = createTheme({
   colors: {
